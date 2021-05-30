@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.kodiskinew" name="kodiskinew repo" version="1.0.1" provider-name="kodiskinew"> >
+    <requires>
+        <import addon="xbmc.addon" version="12.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="[B]kodiskinew Repository[/B]">
+        <dir>
+		<info compressed="false">https://raw.githubusercontent.com/k19w/Repositorykodiskinew/main/matrix/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/k19w/Repositorykodiskinew/main/matrix/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/k19w/Repositorykodiskinew/master/matrix/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en"></summary>
+        <description lang="en"></description>
+        <disclaimer lang="en"></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <news></news>
+    </extension>
+</addons>
