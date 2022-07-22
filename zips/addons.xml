@@ -27,7 +27,6 @@
             <fanart>fanart.png</fanart>
         </assets>
     </extension>
-	
 </addon>
 <addon id="plugin.program.kodiskinewkids" name="[COLOR darkcyan]KODISKINEWKIDS[/COLOR]" version="623.1" provider-name="kodiskinew">
     <requires>
