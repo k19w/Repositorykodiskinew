@@ -28,6 +28,7 @@
         </assets>
     </extension>
 </addon>
+    
 <addon id="plugin.program.kodiskinewkids" name="[COLOR darkcyan]KODISKINEWKIDS[/COLOR]" version="623.1" provider-name="kodiskinew">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
